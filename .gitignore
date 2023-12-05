@@ -1,2 +1,3 @@
 /build/*
 *.JPI
+.DS_Store
